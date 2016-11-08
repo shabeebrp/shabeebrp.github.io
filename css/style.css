@@ -1302,3 +1302,9 @@ ul li p{
     color:#16a085
     
 }
+.manifesto h3{
+    margin-top: 1em;
+}
+.manifesto p{
+    margin-bottom: -.5em;
+}
