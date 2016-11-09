@@ -1298,7 +1298,7 @@ ul li p{
 }
 #souvnier{
     font-style: italic;
-    font-family: cursive;
+    font-family: cursive,sans-serif;
     color:#16a085
     
 }
